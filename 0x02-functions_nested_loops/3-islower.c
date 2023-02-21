@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 /**
 * _islower - print number 1 for lowercase letter 1
 *@c: the alphabet and varible c
