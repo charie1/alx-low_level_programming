@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _isdigit - checks the digit typed.
- * @a: the num 1 to be typed
- * @b: the num 2 to be typed
+ * @a: the num to be typed
+ * @b: the num to be typed
  *
  * Return: Success(0).
  */
