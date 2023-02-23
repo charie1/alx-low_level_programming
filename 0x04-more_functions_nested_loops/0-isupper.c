@@ -3,6 +3,7 @@
  * _isupper - print alphabet in uppercase.
  *
  * @c: character to be typed.
+ *
  * Return: success.
  **/
 
