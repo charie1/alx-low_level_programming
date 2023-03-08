@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+* factorial - multiply the s number
+* @n: the num to be inputted
+* Return: success
+*/
 
 int factorial(int n)
 {
