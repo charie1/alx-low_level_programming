@@ -7,18 +7,18 @@
 * Return: success
 **/
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	char *char_Array;
 	unsigned int count;
 
 	if (size == 0)
-		return (null);
+		return (NULL);
 
 	char_Array = malloc(size * sizeof(char));
 
-	if (char_Array == null)
-		return (null);
+	if (char_Array == NULL)
+		return (NULL);
 
 	for (count = 0; count < size; count++)
 		char_Array[count] = c;
