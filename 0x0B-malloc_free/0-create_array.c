@@ -1,4 +1,4 @@
-#include <stdlib>
+#include <stdlib.h>
 #include "main.h"
 /**
 * create_array - print an array of characters in a malloc
